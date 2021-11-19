@@ -1,0 +1,9 @@
+C:\Users\lanil\RiderProjects\docx-search\SearcherBackend\bin\Debug\SearcherBackend.pdb
+C:\Users\lanil\RiderProjects\docx-search\SearcherBackend\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\lanil\RiderProjects\docx-search\SearcherBackend\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\lanil\RiderProjects\docx-search\SearcherBackend\obj\Debug\SearcherBackend.csprojAssemblyReference.cache
+C:\Users\lanil\RiderProjects\docx-search\SearcherBackend\obj\Debug\SearcherBackend.csproj.CoreCompileInputs.cache
+C:\Users\lanil\RiderProjects\docx-search\SearcherBackend\obj\Debug\SearcherBackend.csproj.CopyComplete
+C:\Users\lanil\RiderProjects\docx-search\SearcherBackend\obj\Debug\SearcherBackend.pdb
+C:\Users\lanil\RiderProjects\docx-search\SearcherBackend\bin\Debug\SearcherBackend.dll
+C:\Users\lanil\RiderProjects\docx-search\SearcherBackend\obj\Debug\SearcherBackend.dll

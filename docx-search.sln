@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearcherBackend", "SearcherBackend\SearcherBackend.csproj", "{C013CB6E-3C12-4C91-ACA0-EF125E9605DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI\UI.csproj", "{DAD3B788-A48D-4E42-A383-A354E7531A54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C013CB6E-3C12-4C91-ACA0-EF125E9605DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C013CB6E-3C12-4C91-ACA0-EF125E9605DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C013CB6E-3C12-4C91-ACA0-EF125E9605DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C013CB6E-3C12-4C91-ACA0-EF125E9605DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAD3B788-A48D-4E42-A383-A354E7531A54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAD3B788-A48D-4E42-A383-A354E7531A54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAD3B788-A48D-4E42-A383-A354E7531A54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAD3B788-A48D-4E42-A383-A354E7531A54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

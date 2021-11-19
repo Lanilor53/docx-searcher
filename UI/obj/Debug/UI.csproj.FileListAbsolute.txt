@@ -1,0 +1,14 @@
+C:\Users\lanil\RiderProjects\docx-search\UI\bin\Debug\UI.exe.config
+C:\Users\lanil\RiderProjects\docx-search\UI\bin\Debug\UI.exe
+C:\Users\lanil\RiderProjects\docx-search\UI\bin\Debug\UI.pdb
+C:\Users\lanil\RiderProjects\docx-search\UI\obj\Debug\MainWindow.g.cs
+C:\Users\lanil\RiderProjects\docx-search\UI\obj\Debug\App.g.cs
+C:\Users\lanil\RiderProjects\docx-search\UI\obj\Debug\UI_MarkupCompile.cache
+C:\Users\lanil\RiderProjects\docx-search\UI\obj\Debug\UI_MarkupCompile.lref
+C:\Users\lanil\RiderProjects\docx-search\UI\obj\Debug\MainWindow.baml
+C:\Users\lanil\RiderProjects\docx-search\UI\obj\Debug\UI.g.resources
+C:\Users\lanil\RiderProjects\docx-search\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\lanil\RiderProjects\docx-search\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\lanil\RiderProjects\docx-search\UI\obj\Debug\UI.exe
+C:\Users\lanil\RiderProjects\docx-search\UI\obj\Debug\UI.pdb
+C:\Users\lanil\RiderProjects\docx-search\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
